@@ -19,7 +19,7 @@ Stack: Flutter · Dart · Kotlin · Swift · Riverpod · Bloc · Firebase · Sup
 
 🏢 Consulting through The Big 3 LLC · 📫 [Email](jg@thebig3llc.com) · Or through myself · 📫 [Email](goshornjustin3@gmail.com) · Open to contract work
 
-[My Portfolio](https://goshornjustin.github.io/)
+[My Portfolio](https://github.com/j-gosh/jaayg.github.io/)
 
 *Pinned repos below are a mix of open source and shippable demos — production client work is under NDA.*
 
