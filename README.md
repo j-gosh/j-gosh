@@ -13,8 +13,7 @@ One-Tank Pulse — IoT propane monitoring, live with 100+ users on both stores
 
 COPPA/FERPA-compliant fintech education platform with real-time WebSocket trading
 
-
-Stack: Flutter · Dart · Kotlin · Swift · Riverpod · Bloc · Firebase · Supabase · native platform channels
+Stack: Flutter · React-Native · Kotlin · Swift · Firebase · Supabase · AWS · SQL · native platform channels
 
 
 🏢 Consulting through The Big 3 LLC · 📫 [Email](jg@thebig3llc.com) · Or through myself · 📫 [Email](goshornjustin3@gmail.com) · Open to contract work
@@ -23,7 +22,7 @@ Stack: Flutter · Dart · Kotlin · Swift · Riverpod · Bloc · Firebase · Sup
 
 *Pinned repos below are a mix of open source and shippable demos — production client work is under NDA.*
 
-
+[![My Skills](https://skillicons.dev/icons?i=flutter,java,kotlin,react,swift,cs,cpp,html,css,js,firebase,supabase,gcp,sqlite)](https://skillicons.dev)
 
 <!-- [![Readme Card](https://github-readme-stats-git-master-justing-s-projects.vercel.app)](https://github-readme-stats-git-master-justing-s-projects.vercel.app) -->
 
