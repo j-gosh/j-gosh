@@ -16,7 +16,7 @@ COPPA/FERPA-compliant fintech education platform with real-time WebSocket tradin
 Stack: Flutter · React-Native · Kotlin · Swift · Firebase · Supabase · AWS · SQL · native platform channels
 
 
-🏢 Consulting through The Big 3 LLC · 📫 [Email](jg@thebig3llc.com) · Or through myself · Send me a message on [LinkedIn]([goshornjustin3@gmail.com](https://www.linkedin.com/in/justin-g-494652230/)) · Open to contract work
+🏢 Consulting through The Big 3 LLC · 📫 [Email](jg@thebig3llc.com) · Or through myself · Send me a message on [LinkedIn](https://www.linkedin.com/in/justin-g-494652230/) · Open to contract work
 
 [My Portfolio](https://github.com/j-gosh/jaayg.github.io/)
 
